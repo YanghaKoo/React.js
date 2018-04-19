@@ -12,8 +12,8 @@ class App extends Component {
     information : [
       {
         id : 0,
-        name : '안수경',
-        phone : '010-7666-8049'
+        name : '김이박',
+        phone : '010-7777-8888'
       },
       {
         id : 1,
