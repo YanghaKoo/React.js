@@ -18,7 +18,7 @@ class App extends Component {
       {
         id : 1,
         name : '구양하',
-        phone : '010-7310-9708'
+        phone : '010-3330-3338'
       }
     ]
   }
