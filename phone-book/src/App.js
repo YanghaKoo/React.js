@@ -5,7 +5,7 @@ import PhoneInfoList from './component/PhoneInfoList'
 import './App.css';
 
 class App extends Component {
- 
+  
   id = 2;
  
   state = {
