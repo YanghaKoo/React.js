@@ -34,7 +34,7 @@ class App extends Component {
         color   
       })       
     })
-  }
+  } 
 
   handleChange = (e) => {
     this.setState({
