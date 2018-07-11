@@ -1,5 +1,4 @@
 import React, { Component } from 'react';
-import logo from './logo.svg';
 import PhoneForm from './component/PhoneForm'
 import PhoneInfoList from './component/PhoneInfoList'
 import './App.css';
