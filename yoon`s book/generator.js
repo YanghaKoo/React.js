@@ -39,5 +39,5 @@ function* filter(array, condition) {
 }
 
 for(const value of filter(a,(x)=> x>2)){
-  console.log(value)
+  console.log(value) 
 }
