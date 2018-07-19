@@ -6,7 +6,7 @@ function* counter() {
   yield 3; // 또 호출하면 또 윗부분부터 다시 코드를 읽어오면서 3 가져옴
   return 4; // 최종적으로 읽어와서 return 1을 만나게 됨, return을 만나서 메서드 전체가 끝났기 때문에 done이 true로 됨
 }
-generatorObject = counter();
+generatorObject = counter(); 
 console.log(generatorObject.next()); // { value: 1, done: false }
 console.log(generatorObject.next()); // { value: 2, done: false }
 console.log(generatorObject.next()); // { value: 3, done: false }
@@ -39,5 +39,5 @@ function* filter(array, condition) {
 }
 
 for(const value of filter(a,(x)=> x>2)){
-  console.log(value)
+  console.log(value) 
 }
