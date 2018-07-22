@@ -1,7 +1,6 @@
 import React, { Component } from 'react';
 import MyName from './MyName'
 import Counter from './Counter'
-import logo from './logo.svg';
 import './App.css';
 
 
