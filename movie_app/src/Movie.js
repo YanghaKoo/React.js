@@ -57,4 +57,4 @@ MoviePoster.propTypes = {
   alt: PropTypes.string.isRequired
 };
 
-export default Movie;
+export default Movie; 
