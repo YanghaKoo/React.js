@@ -16,7 +16,7 @@ console.log(generatorObject.next()); // { value: undefined, done: true }
 for (const value of generatorObject) {
   console.log(value); // 결과 1, 2, 3, 반복문으로 돌릴땐 return이 아무 의미가 없음
 }
-
+ 
 
 // 여기 아래서부터가 진짜 예제
 
