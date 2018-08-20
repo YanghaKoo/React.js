@@ -1,4 +1,4 @@
-import React from "react";
+import React from "react"; 
 import PropTypes from "prop-types";
 import "./Movie.css";
 import LinesEllipsis from "react-lines-ellipsis";
