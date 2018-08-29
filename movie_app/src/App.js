@@ -8,14 +8,7 @@ class App extends Component {
   componentDidMount() {
     this._getMovies();
   }
-
-  
-  componentWillMount() {
-    
-  }
-  
-
-  
+ 
   _renderMovies = () => {
     const movies = this.state.movies.map((movie) => {
       //console.log(movie)
