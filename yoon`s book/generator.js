@@ -18,7 +18,7 @@ for (const value of generatorObject) {
 }
  
 
-// 여기 아래서부터가 진짜 예제
+// 여기 아래서부터가 진짜 예제 
 
 
 a = [1, 2, 3, 4, 5];
